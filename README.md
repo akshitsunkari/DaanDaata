@@ -1,7 +1,10 @@
 # DaanDaata
 
-In a world where food delivery apps thrive—what about those who can’t afford a meal? Daan Daata is a vision to bridge that gap, creating a self-sustaining food-sharing network where surplus food is redistributed instead of wasted. Built with a peer-to-peer model, it enables direct, real-time coordination between donors and recipients, eliminating the need for intermediaries.
+In a world driven by convenience and profit, food delivery apps thrive—but what about those who can’t afford a meal? This platform was built to bridge that gap, creating a self-sustaining food-sharing network where surplus food is redistributed instead of wasted. Unlike commercial solutions, this system fosters direct coordination between people with excess food and those in need, ensuring accessibility without unnecessary intermediaries.
 
+Envisioned like Uber, Ola, or Zomato, but without corporate chains—this is a pure peer-to-peer model, connecting individuals with excess food directly to those who have none.
+
+From a technical standpoint, the platform is designed for seamless, real-time interaction, ensuring food availability updates are quick and efficient. It features a lightweight, scalable architecture deployed on Vercel, using Next.js for optimized performance and React for an intuitive UI. The focus is on efficiency, community-driven engagement, and accessibility, making the platform as impactful as it is functional.
 ## Features
 - **Performance Optimized**: Uses efficient data fetching to minimize load times.
 - **Minimalist UI**: A clean and simple design focusing on usability.
