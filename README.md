@@ -1,6 +1,6 @@
 # DaanDaata
 
-A simple, scrollable feed built using modern web technologies. This project dynamically loads content as users scroll, ensuring a seamless and efficient user experience.
+In a world where food delivery apps thrive—what about those who can’t afford a meal? Daan Daata is a vision to bridge that gap, creating a self-sustaining food-sharing network where surplus food is redistributed instead of wasted. Built with a peer-to-peer model, it enables direct, real-time coordination between donors and recipients, eliminating the need for intermediaries.
 
 ## Features
 - **Performance Optimized**: Uses efficient data fetching to minimize load times.
